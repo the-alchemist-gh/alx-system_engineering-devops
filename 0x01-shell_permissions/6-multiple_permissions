@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 764 hello
+chown ug+x,o+r hello
